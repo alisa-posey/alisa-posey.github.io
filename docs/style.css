@@ -208,6 +208,13 @@ background-color:  lightblue;
 	
 }
 
+ul, li {
+
+	margin: 0;
+	width: 100%;
+	padding: 0;
+}
+
 .social-media{
 	
 	list-style: none;
