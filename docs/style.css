@@ -95,11 +95,11 @@ body{
 
 .web-title{
 	
-		
+			background-color: darkgray;
 		background-position: center;    
 		background-size:cover;
 	
-		background-color: darkgray;
+	
 	
 	overflow:hidden;
 
